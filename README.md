@@ -2,7 +2,7 @@
 a template repo for DSS (Data and Social Science) projects
 
 Hello I am Xue Zheng
-YAYAYAY
+
 You can modify this README.md to highlight:
 1. Project overview
 2. Methodology
