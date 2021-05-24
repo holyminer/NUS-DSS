@@ -1,14 +1,14 @@
 # Stock market analysis during Covid-19
+*Work in progress
 
-
-You can modify this README.md to highlight:
+Contents:
 1. Project overview
 2. Methodology
 3. Code examples (including notebooks)
 
 # Project overview
 
-Tell me something about this project.
+The Covid-19 pandemic had severe impacts on stock markets. It would be informative to identify the trends of a chosen industry and validate the claims/forecasts of different analysts and agencies. Through public data from yahoo finance, stock market data can be obtained to identify these trends. Also, through qualitative research on various agencies such as Morningstar, their claims can be validated with data. An overall stock price trend report of a chosen industry can be used as a general guide for future pandemics and financial crises.
 
 # Methodology
 
