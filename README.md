@@ -1,7 +1,5 @@
-# NUS DSS template
-a template repo for DSS (Data and Social Science) projects
+# Stock market analysis during Covid-19
 
-Hello I am Xue Zheng
 
 You can modify this README.md to highlight:
 1. Project overview
