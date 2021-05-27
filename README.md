@@ -24,7 +24,7 @@ Please upload data to /data
 
 Take note of privacy and copyrights.
 
-# Statis resources
+# Static resources
 
 For storing static resources such as images, graphs etc
 
