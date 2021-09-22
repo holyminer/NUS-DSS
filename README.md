@@ -1,4 +1,4 @@
-# Stock market analysis during Covid-19
+# Validating accuracy of analyst reports
 
 Contents:
 1. Project overview
